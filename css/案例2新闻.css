@@ -1,0 +1,31 @@
+.laiyuan {
+  font-size: 13px;
+  color: grey;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+p {
+  text-indent: 2em;
+}
+.footer {
+  font-weight: 400;
+  font-size: 13px;
+  color: grey;
+}
+.search {
+  font-size: 13px;
+  width: 170px;
+  height: 13px;
+  color: grey;
+}
+.btu {
+  font-weight: 700;
+  width: 50px;
+  height: 20px;
+}
+body {
+  /* font：字体大小/行高 */
+  font: 16px/28px "Microsoft YaHei";
+}

@@ -1,0 +1,38 @@
+.nav a {
+  width: 120px;
+  height: 58px;
+  line-height: 58px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+/* 盒子居中 */
+.nav {
+  text-align: center;
+}
+/* 后代选择器 */
+.nav .bg1 {
+  background-color: #348de7;
+}
+.nav .bg1:hover {
+  background-color: #e79334;
+}
+.nav .bg2 {
+  background-color: #fd643e;
+}
+.nav .bg2:hover {
+  background-color: #52e734;
+}
+.nav .bg3 {
+  background-color: #e7d534;
+}
+.nav .bg3:hover {
+  background-color: #c066fc;
+}
+.nav .bg4 {
+  background-color: #34e7ab;
+}
+.nav .bg4:hover {
+  background-color: #e73452;
+}
